@@ -13,14 +13,14 @@ body{
 }
 
   .weather-app-icon {
-    width: 88px;
-    height: 88px;
-  }
+    width: 80px;
+    height: 80px;
+  
+}
 .weather-app.temperature {
   font-size: 88px;
   line-height: 88px;
   font-weight: bold;
-
 }
 
 header {
@@ -68,6 +68,9 @@ main {
 .weather-app-details strong 
 {
   color: rgb(95, 49, 95)
+}
+.weather-app-temperature-container {
+  display: flex;
 }
 footer {
     border-top: 1 px solid rgb(219, 74, 98);
