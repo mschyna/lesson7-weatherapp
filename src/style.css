@@ -11,6 +11,18 @@ body{
     border-radius: 16px;
     padding: 30px ;
 }
+
+  .weather-app-icon {
+    width: 88px;
+    height: 88px;
+  }
+.weather-app.temperature {
+  font-size: 88px;
+  line-height: 88px;
+  font-weight: bold;
+
+}
+
 header {
     border-button: 1 px solid rgb(219, 74, 98);
     padding: 0 0 30px 0;
